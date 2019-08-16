@@ -1,5 +1,6 @@
-import java.io.BufferedReader;
-import java.util.Collection;
+package service;
+
+import clase.Category;
 
 public interface ICategoryService {
 

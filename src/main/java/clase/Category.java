@@ -1,3 +1,5 @@
+package clase;
+
 public class Category implements Comparable<Category>{
     private String id;
     private String name;

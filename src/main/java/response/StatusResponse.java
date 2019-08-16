@@ -1,3 +1,5 @@
+package response;
+
 public enum StatusResponse {
 
     SUCCESS ("Success"),

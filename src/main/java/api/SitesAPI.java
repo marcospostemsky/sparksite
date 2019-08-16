@@ -1,4 +1,13 @@
+package api;
+
+import clase.Category;
+import clase.Site;
 import com.google.gson.Gson;
+import service.ICategoryService;
+import service.ISiteService;
+import serviceImpl.CategoryServiceMapImpl;
+import serviceImpl.SiteServiceMapImpl;
+
 import static spark.Spark.*;
 
 public class SitesAPI {

@@ -1,4 +1,6 @@
-import java.util.Collection;
+package service;
+
+import clase.Site;
 
 public interface ISiteService {
 
